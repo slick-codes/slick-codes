@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img href="/github-user-contribution.svg" alt="Snake animation" />
+<img href="https://github.com/slick-codes/slick-codes/blob/master/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
