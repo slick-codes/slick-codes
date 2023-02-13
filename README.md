@@ -2,9 +2,8 @@
 
 ###
 
-<div class="about_me"  style="display:inline-flex; flex-flow:row wrap; width:100%; flex-shrink: wrap; padding-bottom:3em; border-bottom:solid 1px #555;  justify-content:center;align-items:center;">
-    <img src="https://paulezekielhart.vercel.app/images/avatar.png" align="left" width="350em">
-    <div class="about" style="padding-left:1em; width: 23em;" align-"right">
+<div class="about_me">
+    <div class="about">
         <h1>Hi, I am Paul</h1>
         <p>
             Hello, my name is Paul Ezekiel-Hart and I am an experienced full stack developer, Brand Identity, and Product Designer with 6 years of working experience, as a freelancer and a Software Engineer at Technoville. I am open to freelancing, remote jobs, and collaboration.
@@ -27,6 +26,10 @@
 
 
 
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/QbiQxP4bA2XYY/giphy.gif"  />
 
 ###
 
