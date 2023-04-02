@@ -7,10 +7,13 @@ Software Engineer
 Hello, my name is Paul Ezekiel-Hart and I am an experienced full stack developer and a Brand Identity/Product design hobbyist with 6 years of working experience, as a freelancer and a Software Engineer at Technoville. I am open to freelancing, remote jobs, and collaboration.
 
 *   🖥️  See my portfolio at [Portfolio](http://paulezekielhart.vercel.app)
-*   ✉️  You can contact me at [hartpaulisimo@gmail.com](mailto:hartpaulisimo@gmail.com)<a href="https://www.github.com/slick-codes" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/slick-codes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/slick_codes" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/slick_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+*   ✉️  You can contact me at [hartpaulisimo@gmail.com](mailto:hartpaulisimo@gmail.com)
+
+<a href="https://www.github.com/slick-codes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/slick-codes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/slick_codes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/slick_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
