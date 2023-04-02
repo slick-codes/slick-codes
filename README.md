@@ -34,7 +34,8 @@ Hello, my name is Paul Ezekiel-Hart and I am an experienced full stack developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-### Socials
+### Socials 
+<br />
                   
                   
 <p align="left">
@@ -49,7 +50,17 @@ Hello, my name is Paul Ezekiel-Hart and I am an experienced full stack developer
 
 
 
+### Badges 
+<br />
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/slick-codes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=slick-codes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Support Me 
+<br />
+
+<a href="https://www.buymeacoffee.com/slickcodes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
