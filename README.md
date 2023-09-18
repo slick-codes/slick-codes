@@ -1,5 +1,5 @@
-Hi 👋 My name is Paul Ezekiel-Hart
-==================================
+Hi 👋 My name is Paul
+=====================
 
 Software Engineer
 -----------------
