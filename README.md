@@ -12,28 +12,23 @@ I’m currently open to:
 - Remote roles
 - Exciting collaborations
 
----
 
-## 🌐 Portfolio & Contact
+## 🌐 Socials - Connect
+
 <table>
 <tr>
 <td><a href="http://paulezekielhart.vercel.app" target="_blank">🌍 Portfolio</a></td>
+<td><a href="https://www.linkedin.com/in/paul-ezekiel-hart-868126237" target="_blank">💼 LinkedIn</a></td>
+<td><a href="https://www.twitter.com/slick_codes" target="_blank">🐦 Twitter</a></td>
 <td><a href="mailto:hartpaulisimo@gmail.com">📧 Email</a></td>
+<td><a href="https://www.codepen.io/slickcodes" target="_blank">💡 CodePen</a></td>
 <td><a href="https://www.github.com/slick-codes" target="_blank">💻 GitHub</a></td>
+  <td><a href="https://www.behance.com/slickcodes" target="_blank">🎨 Behance</a></td>
+<td><a href="https://www.dribbble.com/slickcodes" target="_blank">🎯 Dribbble</a></td>
 <td><a href="https://www.twitter.com/slick_codes" target="_blank">🐦 Twitter</a></td>
 </tr>
 </table>
 
-<!--
-<a href="https://www.github.com/slick-codes" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/slick-codes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<a href="https://www.twitter.com/slick_codes" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/slick_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
--->
-
----
 
 ## ⚡ Tech Stack
 ### Skills
@@ -62,17 +57,3 @@ I’m currently open to:
 </p>
 
 ---
-
-## 🌍 Socials
-<table>
-<tr>
-<td><a href="https://www.behance.com/slickcodes" target="_blank">🎨 Behance</a></td>
-<td><a href="https://www.codepen.io/slickcodes" target="_blank">💡 CodePen</a></td>
-<td><a href="https://www.dribbble.com/slickcodes" target="_blank">🎯 Dribbble</a></td>
-<td><a href="https://www.linkedin.com/in/paul-ezekiel-hart-868126237" target="_blank">💼 LinkedIn</a></td>
-<td><a href="https://www.twitter.com/slick_codes" target="_blank">🐦 Twitter</a></td>
-</tr>
-</table>
-
----
-
