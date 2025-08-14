@@ -4,8 +4,10 @@
 
 **Software Engineer | Full Stack Developer | Brand Identity & Product Design Enthusiast**  
 
-I'm an experienced **Full Stack Developer** with over **6 years** of hands-on experience working as a freelancer and as a Software Engineer at **Technoville**.  
-I specialize in building performant web applications, crafting clean APIs, and occasionally indulging in **brand identity and product design** projects.  
+I build scalable APIs, and user-focused web applications. My work spans **backend systems** with Node.js, Golang, and PostgreSQL to **frontend experiences** with Vue, React, and Svelte — often integrating with cloud services on **AWS**.  
+
+I’ve created fintech APIs serving thousands of users, open-source npm packages like [`json-validace`](https://www.npmjs.com/package/json-validace), and mentored developers now thriving in tech.  
+
 
 I’m currently open to:
 - Freelance opportunities
@@ -13,25 +15,30 @@ I’m currently open to:
 - Exciting collaborations
 
 
-## 🌐 Socials - Connect
+### Socials
 
 <table>
-<tr>
-<td><a href="http://paulezekielhart.vercel.app" target="_blank">🌍 Portfolio</a></td>
-<td><a href="https://www.linkedin.com/in/paul-ezekiel-hart-868126237" target="_blank">💼 LinkedIn</a></td>
-<td><a href="https://www.twitter.com/slick_codes" target="_blank">🐦 Twitter</a></td>
-<td><a href="mailto:hartpaulisimo@gmail.com">📧 Email</a></td>
-<td><a href="https://www.codepen.io/slickcodes" target="_blank">💡 CodePen</a></td>
-<td><a href="https://www.github.com/slick-codes" target="_blank">💻 GitHub</a></td>
+  <tr>
+    <td><a href="http://paulezekielhart.vercel.app" target="_blank" style="width=20em">🌍 Portfolio</a></td>
+    <td><a href="mailto:hartpaulisimo@gmail.com">📧 Email</a></td>
+    <td><a href="https://www.linkedin.com/in/paul-ezekiel-hart-868126237" target="_blank">💼 LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codepen.io/slickcodes" target="_blank">💡 CodePen</a></td>
+  <td><a href="https://www.github.com/slick-codes" target="_blank">💻 GitHub</a></td>
   <td><a href="https://www.behance.com/slickcodes" target="_blank">🎨 Behance</a></td>
-<td><a href="https://www.dribbble.com/slickcodes" target="_blank">🎯 Dribbble</a></td>
-<td><a href="https://www.twitter.com/slick_codes" target="_blank">🐦 Twitter</a></td>
+</tr>
+<tr>
+  <td><a href="https://www.dribbble.com/slickcodes" target="_blank">🎯 Dribbble</a></td>
+    <td><a href="https://instagram.com/slickcodes" target="_blank">📷 Instagram</a></td>
+  <td><a href="https://www.twitter.com/slick_codes" target="_blank">🐦 Twitter</a></td>
 </tr>
 </table>
 
+#
 
-## ⚡ Tech Stack
-### Skills
+
+## Skills
 
 <p align="center">
 <div>
@@ -56,4 +63,6 @@ I’m currently open to:
   </div>
 </p>
 
----
+#
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhhbXFxbnB4enBpMnRzMGZ4d3JqZzNsbjljMXdjdzM1NncwcWJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="5300" style="width: 100%">
