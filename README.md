@@ -1,5 +1,7 @@
 # Hi 👋, I'm Paul Ezekiel-Hart
 
+<img src="https://raw.githubusercontent.com/slick-codes/slick-codes/refs/heads/master/images/original-ed731205bcfffd980a27c45db2858a96.webp" />
+
 **Software Engineer | Full Stack Developer | Brand Identity & Product Design Enthusiast**  
 
 I'm an experienced **Full Stack Developer** with over **6 years** of hands-on experience working as a freelancer and as a Software Engineer at **Technoville**.  
