@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paul Ezekiel-Hart
 
-<img src="https://raw.githubusercontent.com/slick-codes/slick-codes/refs/heads/master/images/original-ed731205bcfffd980a27c45db2858a96.webp" />
+<img src="https://pbs.twimg.com/profile_banners/1189608972082466816/1762072666/1500x500" />
 
 **Software Engineer | Full Stack Developer | Brand Identity & Product Design Enthusiast**  
 
