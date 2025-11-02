@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paul Ezekiel-Hart
 
-<img src="https://pbs.twimg.com/profile_banners/1189608972082466816/1762072666/1500x500" />
+<img src="./images/cover.png" />
 
 **Software Engineer | Full Stack Developer | Brand Identity & Product Design Enthusiast**  
 
