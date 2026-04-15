@@ -65,4 +65,4 @@ I’m currently open to:
 
 #
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhhbXFxbnB4enBpMnRzMGZ4d3JqZzNsbjljMXdjdzM1NncwcWJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" width="5300" style="width: 100%">
+<img src="./images/gojo_satoru_by_merise_mrs_dhx9gee.jpg" width="5300" style="width: 100%">
